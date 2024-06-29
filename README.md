@@ -9,8 +9,6 @@ This repository hosts a project focused on analyzing sentiment in Twitter data u
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 
