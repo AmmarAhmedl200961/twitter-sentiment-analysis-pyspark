@@ -25,7 +25,7 @@ This project applies natural language processing techniques to assess sentiments
 
 The Sentiment140 dataset is used in this project, containing 140 million tweets labeled for sentiment. This dataset allows for robust training and testing of the sentiment analysis model.
 
-- **Source**: The dataset can be downloaded from [Sentiment140](http://www.sentiment140.com/). 
+- **Source**: The dataset can be downloaded from [Sentiment140](https://huggingface.co/datasets/stanfordnlp/sentiment140). 
 
 ## Installation
 
