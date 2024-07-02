@@ -1,22 +1,28 @@
 # Twitter Sentiment Analysis with PySpark
+![GitHub last commit](https://img.shields.io/github/last-commit/AmmarAhmedl200961/twitter-sentiment-analysis-pyspark)
+![GitHub issues](https://img.shields.io/github/issues/AmmarAhmedl200961/twitter-sentiment-analysis-pyspark)
+![GitHub stars](https://img.shields.io/github/stars/AmmarAhmedl200961/twitter-sentiment-analysis-pyspark?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AmmarAhmedl200961/twitter-sentiment-analysis-pyspark?style=social)
+![Python version](https://img.shields.io/badge/python-3.8+-blue.svg)
 
 This repository hosts a project focused on analyzing sentiment in Twitter data using the PySpark framework. The project processes a large dataset from Twitter (Sentiment140), utilizing big data technologies to perform sentiment analysis at scale.
 
 ## Table of Contents
 
-- [Technologies Used](#technologies-used)
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Twitter Sentiment Analysis with PySpark](#twitter-sentiment-analysis-with-pyspark)
+  - [Table of Contents](#table-of-contents)
+  - [Technologies Used](#technologies-used)
+  - [Project Overview](#project-overview)
+  - [Dataset](#dataset)
+  - [Installation](#installation)
+  - [Usage](#usage)
 
 ## Technologies Used
 
-- Python 3
-- Apache Spark
-- PySpark
-- Jupyter Notebook
-
+![Python](https://img.shields.io/badge/Python-3-blue.svg?logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%E2%80%8D-orange.svg?logo=apache-spark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-%E2%80%8D-blue.svg?logo=apache-spark&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%E2%80%8D-orange.svg?logo=jupyter&logoColor=white)
 ## Project Overview
 
 This project applies natural language processing techniques to assess sentiments expressed in tweets. Utilizing the power of Apache Spark and PySpark, the analysis scales to handle large volumes of data efficiently, making it ideal for real-world social media datasets.
