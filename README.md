@@ -39,7 +39,7 @@ Ensure you have Python and Apache Spark installed on your system. Follow these s
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/twitter-sentiment-analysis-pyspark.git
+    git clone https://github.com/AmmarAhmedl200961/twitter-sentiment-analysis-pyspark.git
     ```
 
 2. **Navigate to the project directory**:
